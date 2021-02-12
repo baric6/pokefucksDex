@@ -220,4 +220,4 @@ async def on_message(message):
             embed.add_field(name="details", value="*loose [your name]\n\nYou do not need brackets\n Issue subtracting points")      
             await message.channel.send(embed=embed)               
 
-client.run('ODA1NTQxOTc0NTg4MjYwMzgy.YBcZbA.owxnZiYqYrqKLPFEOzQX7rgA08I')
+client.run('Discord token')
